@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.94991fb0.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.11a5d20b.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.11a5d20b.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.8a6342e4.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.8a6342e4.js.map",
+    "static/js/2.88d16e3d.chunk.js": "/pixel-perfect/static/js/2.88d16e3d.chunk.js",
+    "static/js/2.88d16e3d.chunk.js.map": "/pixel-perfect/static/js/2.88d16e3d.chunk.js.map",
+    "static/js/3.744a7d22.chunk.js": "/pixel-perfect/static/js/3.744a7d22.chunk.js",
+    "static/js/3.744a7d22.chunk.js.map": "/pixel-perfect/static/js/3.744a7d22.chunk.js.map",
+    "index.html": "/pixel-perfect/index.html",
+    "static/css/main.94991fb0.chunk.css.map": "/pixel-perfect/static/css/main.94991fb0.chunk.css.map",
+    "static/js/2.88d16e3d.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.88d16e3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6342e4.js",
+    "static/js/2.88d16e3d.chunk.js",
+    "static/css/main.94991fb0.chunk.css",
+    "static/js/main.11a5d20b.chunk.js"
+  ]
+}
