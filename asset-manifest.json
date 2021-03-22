@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixel-perfect/static/css/main.f029f25b.chunk.css",
+    "main.css": "/pixel-perfect/static/css/main.b5e04508.chunk.css",
     "main.js": "/pixel-perfect/static/js/main.c2952751.chunk.js",
     "main.js.map": "/pixel-perfect/static/js/main.c2952751.chunk.js.map",
     "runtime-main.js": "/pixel-perfect/static/js/runtime-main.aaa96f14.js",
@@ -10,7 +10,7 @@
     "static/js/3.0709744c.chunk.js": "/pixel-perfect/static/js/3.0709744c.chunk.js",
     "static/js/3.0709744c.chunk.js.map": "/pixel-perfect/static/js/3.0709744c.chunk.js.map",
     "index.html": "/pixel-perfect/index.html",
-    "static/css/main.f029f25b.chunk.css.map": "/pixel-perfect/static/css/main.f029f25b.chunk.css.map",
+    "static/css/main.b5e04508.chunk.css.map": "/pixel-perfect/static/css/main.b5e04508.chunk.css.map",
     "static/js/2.8aac4200.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.8aac4200.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/pixel-perfect/static/media/ready-bg-desktop.7404dbad.jpg",
     "static/media/enjoyable-place-desktop.06399aa5.jpg": "/pixel-perfect/static/media/enjoyable-place-desktop.06399aa5.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.aaa96f14.js",
     "static/js/2.8aac4200.chunk.js",
-    "static/css/main.f029f25b.chunk.css",
+    "static/css/main.b5e04508.chunk.css",
     "static/js/main.c2952751.chunk.js"
   ]
 }
