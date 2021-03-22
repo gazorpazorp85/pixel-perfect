@@ -1,0 +1,23 @@
+// Colors
+// primary 1
+$clr1: hsl(27, 22%, 51%);
+// primary 2
+$clr2: hsl(0, 0%, 7%);
+// secondary 1
+$clr3: hsl(234, 30%, 13%);
+// secondary 2
+$clr4: hsl(218, 21%, 18%);
+// secondary 3
+$clr5: hsl(217, 14%, 42%);
+
+$clr6: #ffffff;
+
+// Breakpoints
+
+$mobile-narrow-breakpoint: 375px;
+$mobile-wide-breakpoint: 460px;
+$tablet-breakpoint: 720px;
+$tablet-wide-breakpoint: 1000px;
+$normal-breakpoint: 1110px;
+$wide-breakpoint: 1440px;
+$wider-breakpoint: 1680px;

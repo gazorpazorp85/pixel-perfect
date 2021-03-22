@@ -1,0 +1,8 @@
+.footer-container {
+    height: 240px;
+    background-color: $clr2;
+}
+
+@include for-mobile-wide-layout {
+    width: 100%;
+}

@@ -1,0 +1,42 @@
+.highlights-container {
+    height: 761px;
+    background-color: $clr2;
+    color: $clr6;
+}
+
+.highlights-content-container {
+    margin-top: 200px;
+    padding-top: 55px;
+    background-image: url("../../assets/imgs/patterns/pattern-divide.svg");
+    background-repeat: no-repeat;
+    justify-content: space-between;
+
+    h2 {
+        line-height: 56px;
+    }
+}
+
+.highlights-title-container {
+    max-width: 445px;
+}
+
+@include for-mobile-wide-layout {
+    .highlights-container {
+        height: 1920px;
+    }
+    .highlights-content-container {
+        flex-direction: column;
+        align-items: center;
+        background-position: top center;
+        margin-top: 72px;
+    }
+
+    .highlights-title-container {
+        max-width: 320px;
+        text-align: center;
+    }
+
+    .list-container {
+        margin-top: 64px;
+    }
+}
