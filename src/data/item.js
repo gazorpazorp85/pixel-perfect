@@ -17,5 +17,4 @@ export const items = [
     imgUrl: 'menu-item3',
     id: 'abc125'
   },
-
 ]

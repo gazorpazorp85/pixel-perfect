@@ -1,4 +1,32 @@
 .call-to-action-container {
     height: 240px;
     background-image: url(../../assets/imgs/homepage/ready-bg-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: $clr6;
+}
+
+.call-to-action-content-container {
+    justify-content: space-between;
+}
+
+@include for-mobile-wide-layout {
+    .call-to-action-container {
+        height: 328px;
+        background-image: url(../../assets/imgs/homepage/ready-bg-mobile.jpg);
+    }
+
+    .call-to-action-content-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        & h2 {
+            text-align: center;
+        }
+
+        & button {
+            margin-top: 24px;
+        }
+    }
 }

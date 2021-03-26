@@ -22,13 +22,14 @@
 
 @include for-mobile-wide-layout {
     .highlights-container {
-        height: 1920px;
+        height: inherit;
     }
+
     .highlights-content-container {
         flex-direction: column;
         align-items: center;
         background-position: top center;
-        margin-top: 72px;
+        margin: 72px 0px 48px;
     }
 
     .highlights-title-container {

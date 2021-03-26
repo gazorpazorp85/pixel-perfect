@@ -5,7 +5,16 @@
     color: $clr6;
 }
 
+.screen {
+    position: absolute;
+    right: 0;
+    height: inherit;
+    width: 885px;
+    background-color: rgba(43, 41, 41, 0.26);
+}
+
 .hero-content-container {
+    position: relative;
     padding-top: 65px;
 }
 
@@ -32,6 +41,10 @@
         background-repeat: no-repeat;
         background-size: cover;
         align-items: center;
+    }
+
+    .screen {
+        display: none;
     }
 
     .hero-content-container {
